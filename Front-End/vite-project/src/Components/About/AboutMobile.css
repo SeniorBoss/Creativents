@@ -1,15 +1,34 @@
-@media screen and (min-width:320px) and (max-width:583px){
+@media only screen and (max-width: 767px){
         .BurgerMenu {
             display: flex;
             font-size: 17px;
-          
           }
 
+          
+
+          
+    .aboutPage h3{
+      font-size: 15px;
+      font-weight: 400;
+      width: 90%;
+    }
+    
+    .aboutPageHolder .aboutPage{
+      align-items: center;
+      background-position: center;
+      background-size: cover;
+      height: 70vh;
+      background-repeat: no-repeat;
+     }
+
+
+    .aboutPage h1{
+      font-size: 35px;
+    }
+
+
           .Span{
-        
-            display: flex;
-            
-            
+            display: flex;    
           }
           
           
@@ -65,10 +84,7 @@
         }
 
         .aboutUsPictureHolderLeft{
-        display: none;
-        
-            
-        
+          height: 50vh;
         }
 
         .aboutPageHolder{

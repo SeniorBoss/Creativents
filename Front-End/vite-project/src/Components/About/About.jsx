@@ -1,4 +1,4 @@
-  
+import './AboutMobile.css'
 import "./About.css"
 import Header from "../LandingPage/Header"
 import Footer from "../LandingPage/Footer"
@@ -11,9 +11,9 @@ const About =()=>{
   <section className="aboutPage">
   <h1 className="aboutUs">ABOUT US</h1>
   <h3 className="aboutCreativent">
-  Creativent is a platform with a wide range of services that satisfies<br></br>
-  customers demands with easy and secure payment options, we <br></br>
-  are ready to give you the best experience as an event enthusiasts<br></br>
+  Creativent is a platform with a wide range of services that satisfies
+  customers demands with easy and secure payment options, we 
+  are ready to give you the best experience as an event enthusiasts
   or attendee 
   </h3>
  
