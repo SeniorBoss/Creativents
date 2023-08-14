@@ -2,6 +2,7 @@ import React from 'react'
 import './EmailVerification.css'
 import axios from 'axios'
 import { useSelector } from 'react-redux';
+import './EmailMedia.css'
 
 function CheckMail() {
   const userDatas = useSelector(state=>state.events.user)

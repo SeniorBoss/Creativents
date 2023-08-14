@@ -1,0 +1,57 @@
+@media only screen and (max-width:767px) {
+    .container{
+        width: 100%;
+        height: 100vh;
+        background-color: #08022F;
+    }
+
+    .container .holder{
+        width: 100%;
+        height: 100vh;
+        background-color: #08022F;
+        color: white;
+        gap: 20px;
+    }
+
+    .holder h1{
+       height: 20%;
+       font-size: 30px;
+    }
+
+    .ContinueBtn{
+        width: 70%;
+        height: 8%;
+    }
+
+    
+.ContinueBtn:hover{
+    background-color: #FCA702;
+    color: white;
+    transition: 300ms ease-in;
+}
+
+
+}
+
+@media only screen and (min-width:768px) and (max-width: 1024px){
+
+.holder{
+    width: 80%;
+    height: 50%;
+}
+
+
+.ContinueBtn{
+    width: 30%;
+    height: 10%;
+}
+
+.ContinueBtn:hover{
+    background-color: #FCA702;
+}
+
+.holder h1{
+    height: 17%;
+}
+    
+}

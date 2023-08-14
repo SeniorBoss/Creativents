@@ -476,8 +476,8 @@
   }
 
   .main-category{
-    width: 23%;
-    height: 225px;
+    width: 27%;
+    height:320px;
     border-radius: 8px;
     background-color: whitesmoke;
     position: relative;
@@ -503,8 +503,8 @@
     width: 100%;
     height: max-content;
     display: flex;
-    justify-content: space-between;
-    gap: 6.5%;
+    justify-content: center;
+    gap: 6%;
     flex-wrap: wrap;
   }
   .category-image{

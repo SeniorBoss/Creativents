@@ -201,6 +201,17 @@ function Category (){
                     </div>
                     <div className="category-discription"></div>
                 </div>
+                <div className="main-category">
+                    <div className="category-image">
+                    <div className='love'>
+                        <BsFillSuitHeartFill/>
+                        </div>
+                        <div className='love2'>
+                        <CiMenuKebab/>
+                        </div>
+                    </div>
+                    <div className="category-discription"></div>
+                </div>
             
 
             </div>
