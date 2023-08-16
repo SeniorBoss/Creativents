@@ -446,3 +446,9 @@
     background-color: white;
     display: flex;
 }
+
+
+.directiontodifferentpage{
+    display: none;
+  }
+
